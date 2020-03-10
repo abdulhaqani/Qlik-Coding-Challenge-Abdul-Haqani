@@ -7,3 +7,7 @@ To run the program perform the following steps.
 - run 'node app.js' in terminal and see the results printed into the console.
 
 Thank you for the opportunity :)
+
+Abdul Haqani
+
+contact: ahaqa011@uottawa.ca / 819-319-2529
