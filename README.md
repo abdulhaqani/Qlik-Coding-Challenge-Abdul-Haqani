@@ -1,4 +1,4 @@
-# QlikCodingChallenge
+# Qlik Coding Challenge
 To run the program perform the following steps.
 
 - Ensure nodejs is installed
